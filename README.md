@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farafatima
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web application development 
 - 🌱 I’m currently pursuing masters in computer science from campbellsville University, USA.
 - 💞️ I’m looking to join the top most IT companies and gain hands-on experience.
 - 📫 How to reach me linkedin.com/in/farafatima 
